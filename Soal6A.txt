@@ -1,8 +1,0 @@
-INSERT INTO categories (id, name) VALUES (1,'Peralatan Mandi'),(2,'Mie Instan'),(3,'Olahan Daging');
-
-INSERT INTO products (id, name, category_id) VALUES 
-(1,'Sampo',1),
-(2,'Sikat Gigi',1),
-(3,'Indomi',2),
-(4,'Mie Sedap',2),
-(5,'Nuget',3);
