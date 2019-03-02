@@ -1,0 +1,1 @@
+SELECT id_category ,name_category ,name_products FROM categories AS tableA  JOIN products AS tableB ON tableA.id_category = tableB.name_products
